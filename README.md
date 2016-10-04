@@ -1,4 +1,4 @@
- [![Creative Commons License](https://creativecommons.org/wp-content/uploads/2016/06/cc.logo_.white_.png)](http://creativecommons.org/
+ [![Creative Commons License](http://mirrors.creativecommons.org/presskit/logos/cc.logo.png)](http://creativecommons.org/
     licenses/by-nc-nd/4.0/)
 
 # Applied Mathematics: an Introduction to Scientific Computing
