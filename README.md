@@ -1,6 +1,7 @@
+ [![Creative Commons License](https://creativecommons.org/wp-content/uploads/2016/06/cc.logo_.white_.png)](http://creativecommons.org/
+    licenses/by-nc-nd/4.0/)
 
-
-# Applied Mathematics: a Laboratory of Numerical Methods for PDEs
+# Applied Mathematics: an Introduction to Scientific Computing
 
 - Luca Heltai (<luca.heltai@sissa.it>)
 - Gianluigi Rozza (<gianluigi.rozza@sissa.it>)
@@ -65,3 +66,27 @@ A short introduction on a selection of following topics:
 
 ##### Students projects
 - Application of the Finite Element Method to the solution of models taken from the course
+
+# Instructions for git aware students (and [MHPC](http://www.mhpc.it) students)
+
+This repository contains, assignements, workspaces, and other material for the
+course P1.4
+
+New material will be uploaded frequently,
+
+Remember to set a second remote, either to our private seed
+
+
+	git remote add P1.4_seed https://github.com/sissa/P1.4_seed.git
+
+or (if using ssh keys in your github account)
+
+	git remote add P1.4_seed git@github.com:sissa/P1.4_seed.git
+
+or to our public seed
+
+	git remote add P1.4_seed https://github.com/luca-heltai/applied-mathematics.git
+
+and to update before the lectures:
+
+	git pull P1.4_seed master
