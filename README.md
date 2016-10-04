@@ -90,3 +90,15 @@ or to our public seed
 and to update before the lectures:
 
 	git pull P1.4_seed master
+
+**Please consider contributing pull requests to correct typos, or better document the material in this repository!**
+
+# Licencing
+
+The content of this repository is distributed with a Creative Common licence. See
+the file LICENCE.md in this directory for more information.
+
+# Attribution
+
+Some of the material in this repository was adapted from the python-lectures by [Robert Johansson](https://github.com/jrjohansson/scientific-python-lectures). Take a look at his repository for additional material and lectures.
+
