@@ -3,5 +3,5 @@
 notes/*
 project/draft/*
 project/resources/*
-.txt
-.png
+*.txt
+*.png
