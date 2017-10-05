@@ -6,7 +6,7 @@
 - Luca Heltai (<luca.heltai@sissa.it>)
 - Gianluigi Rozza (<gianluigi.rozza@sissa.it>)
 
-## Syllabus 2016-2017
+## Syllabus 2017-2018
 
 Frontal Lectures (about 24h), Interleaved with Laboratories (about 24h): total 48h, 6 CFU
 
@@ -38,14 +38,6 @@ Frontal Lectures (about 24h), Interleaved with Laboratories (about 24h): total 4
  - Heat conductivity
  - Maxwell equation
 
-##### Advanced Numerical Methods and Models
-A short introduction on a selection of following topics:
-
-- Non conforming Finite Element Methods
-- Mixed Finite Element Methods
-- Darcy's equation
-- Stokes
-
 ### Laboratories
 
 ##### Introductory lectures
@@ -56,13 +48,6 @@ A short introduction on a selection of following topics:
 - Using numpy/scipy for ODEs
 - Working with numpy arrays, matrices and nd-arrays
 - Solving non-linear systems of equations
-
-##### Advanced lectures
-- Object oriented programming in numerical analysis
-- Review of best practices in programming for numerical analysis
-- Working project: ePICURE (Python Isogeometric CUrve REconstruction)
-- Solution of one dimensional PDEs using Finite Elements
-- From one dimensional FEM to N-dimensional exploiting tensor structure of certain finite elements
 
 ##### Students projects
 - Application of the Finite Element Method to the solution of models taken from the course
@@ -121,10 +106,6 @@ Remember to set a second remote, either to our private seed
 or (if using ssh keys in your github account)
 
 	git remote add P1.4_seed git@github.com:sissa/P1.4_seed.git
-
-or to our public seed
-
-	git remote add P1.4_seed https://github.com/luca-heltai/applied-mathematics.git
 
 and to update before the lectures:
 
