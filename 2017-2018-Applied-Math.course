@@ -29,3 +29,7 @@
 {"email_address":"amaurizio@sissa.it","table":"students","student_id":"e63efeb3-1a2f-4fdd-80a0-70055551a362","project_id":"c1439cbe-6852-4845-b353-5deb89c8edbb"}
 {"email_address":"timoteo.colnaghi@gmail.com","table":"students","student_id":"b779e946-a77e-4e05-aefa-357044328415","project_id":"a1e09f3d-e62b-4f6e-9036-023dedaec347"}
 {"email_address":"piero.coronica@gmail.com","table":"students","student_id":"abad9a19-5f12-4b30-96a7-de74783cd578","project_id":"d9be3729-f6c6-4471-b4d4-f932b9962d71"}
+{"path":"assignments","collect_path":"2017-2018 Python course-collect/assignments","graded_path":"graded-assignments","target_path":"assignments","table":"assignments","assignment_id":"74971051-81eb-4121-9f3f-e0200aa71e9c","deleted":true}
+{"path":"assignments/00_Basics","collect_path":"2017-2018 Python course-collect/assignments/00_Basics","graded_path":"assignments/graded-00_Basics","target_path":"assignments/00_Basics","table":"assignments","assignment_id":"59e27d86-28c3-4eed-afb3-a61c8f9d603b"}
+{"path":"docs/slides","target_path":"docs/slides","table":"handouts","handout_id":"3d1838e3-80ae-4bfd-ac82-d0b94ce8fd87"}
+{"path":"notes","target_path":"notes","table":"handouts","handout_id":"507de58f-ceba-4495-88be-f58e252ef5f3"}
